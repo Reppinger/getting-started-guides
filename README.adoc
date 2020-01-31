@@ -14,7 +14,6 @@ This guide walks you through the process of creating a Spring application.
 
 You'll build a Spring application.
 
-
 == What you'll need
 
 :java_version: 1.8
